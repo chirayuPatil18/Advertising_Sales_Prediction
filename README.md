@@ -30,6 +30,13 @@ git clone https://github.com/chirayuPatil18/Advertising_Sales_Prediction.git
 cd Advertising_Sales_Prediction
 
 ### 2.Install Dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
 pip install -r requirements.txt
 
 ### 3.Run the streamlit App
