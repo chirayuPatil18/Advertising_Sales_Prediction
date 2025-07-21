@@ -7,7 +7,7 @@ This project is a **Streamlit-based web app** that predicts **TV advertising sal
 ## 🚀 Features
 
 - 📊 Input your own advertising budget for TV, Radio, and Newspaper
-- 🤖 Predict sales using a trained **Linear Regression** model
+- 🤖 Predict sales using a trained **Ridge Regression** model
 - 📉 Visualize data distributions and model performance
 - 💡 Simple and interactive UI built with Streamlit
 
@@ -15,7 +15,7 @@ This project is a **Streamlit-based web app** that predicts **TV advertising sal
 
 ## 🧠 Machine Learning Model
 
-- **Algorithm**: Linear Regression
+- **Algorithm**: Ridge Regression 
 - **Dataset**: [Advertising dataset](https://www.statlearning.com/resources-second-edition) (TV, Radio, Newspaper ad budgets vs. Sales)
 - **Libraries**: `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, `streamlit`
 
